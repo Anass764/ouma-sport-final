@@ -3,7 +3,7 @@ const teamMembers = [
   { name: 'SAAD ATIF', role: 'Directeur Commercial', image: '/team/SAAD ATIF.jpg' },
   { name: 'OUSSAMA BOUKALKHA', role: 'Responsable Logistique', image: '/team/OUSSAMA BOUKALKHA.jpg' },
   { name: 'REDA TALIBI', role: 'Chef Marketing', image: '/team/reda.jpg' },
-  { name: 'ADAM HERRAZ', role: 'Responsable Qualité', image: '' }
+  { name: 'ADAM HERRAZ', role: 'Responsable Qualité', image: '/team/adam.jpg' }
 ];
 
 export default function Team() {
