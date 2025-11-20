@@ -55,7 +55,7 @@ export const products: Product[] = [
   },
   {
     id: 5,
-    name: 'Legging de Sport Femme',
+    name: 'Legging de Sport ',
     price: 199,
     image: '/team/p5.jpg',
     category: 'Femme',
